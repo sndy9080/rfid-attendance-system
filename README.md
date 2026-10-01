@@ -82,35 +82,35 @@ rfid-attendance-system/
 ### Attendance Device
 
 <p align="center">
-  <img src="images/Attendance Device.png" alt="RFID Attendance Device" width="700">
+  <img src="images/Attendance Device.png" alt="RFID Attendance Device" width="400">
 </p>
 
 ### Attendance System Use Case
 
 <p align="center">
-  <img src="images/Attendance System Use Case.png" alt="Attendance System Use Case Diagram" width="700">
+  <img src="images/Attendance System Use Case.png" alt="Attendance System Use Case Diagram" width="400">
 </p>
 
 ### Activity Diagram
 
 <p align="center">
-  <img src="images/Activity Diagram.png" alt="RFID Attendance Activity Diagram" width="700">
+  <img src="images/Activity Diagram.png" alt="RFID Attendance Activity Diagram" width="400">
 </p>
 
 ### Attendance Data
 
 <p align="center">
-  <img src="images/Attendance Data.png" alt="Attendance Data in Google Sheets" width="700">
+  <img src="images/Attendance Data.png" alt="Attendance Data in Google Sheets" width="400">
 </p>
 
 ### Data Sent Automatically
 
 <p align="center">
-  <img src="images/Data sent automatically.png" alt="Attendance Data Sent Automatically" width="700">
+  <img src="images/Data sent automatically.png" alt="Attendance Data Sent Automatically" width="400">
 </p>
 
 ### System Wiring Diagram
 
 <p align="center">
-  <img src="schematics/system_wiring_diagram.png" alt="RFID Attendance System Wiring Diagram" width="700">
+  <img src="schematics/system_wiring_diagram.png" alt="RFID Attendance System Wiring Diagram" width="400">
 </p>
